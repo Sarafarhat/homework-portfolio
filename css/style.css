@@ -55,13 +55,13 @@ h3{
      margin: 1.5em 10px;
      padding: 0.5em 10px;
      quotes: "\201C""\201D""\2018""\2019";
-     width: 700px;
+     width: 500px;
      margin-left: 0px;
      border-radius: 10px;
 }
 
 #container{
-	width: 1000px;
+	width: 800px;
 	height: 250px;
 	background-color: white;
 	border-radius: 10px;
@@ -76,7 +76,7 @@ h3{
 }
 
 #experience{
-	width: 1000px;
+	width: 800px;
 	height: 1200;
 	background-color: white;
 	border-radius: 10px;
@@ -91,7 +91,7 @@ h3{
 }
 
 #education{
-	width: 1000px;
+	width: 800px;
 	background-color: white;
 	border-radius: 10px;
 	padding-left: 50px;
