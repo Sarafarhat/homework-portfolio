@@ -24,18 +24,13 @@ h1{
 	color:#0A1F5A;
 }
 
-#avatar {
+.image{
 	float: right;
 	width: 200px;
-	border-radius: 100px;
-
+	border-radius: 110px;
+	border: 10px solid #677CB6;
 }
-#portfolio{
 
-	float: right;
-	width: 200px;
-	border-radius: 100px;
-}
 nav{
 	text-align: center;
 	padding-top: 20px;
@@ -92,6 +87,7 @@ h3{
 	margin:20px auto;
 }
 #education{
+
 	width: 1000px;
 	background-color: white;
 	border-radius: 10px;
@@ -105,17 +101,13 @@ h3{
 	margin: 20px auto;
 }
 
-#formotus{
+.work{
+
 	width: 600px;
 	border-radius: 20px;
-	border: 10px solid #2A458F;
+	border: 10px solid #677CB6;
 }
 
-#attendible{
-	width: 600px;
-	border-radius:20px;
-	border: 10px solid #2A458F;
-}
 a{
 	color:#2A458F;
 	text-decoration: none;
